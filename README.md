@@ -1,4 +1,4 @@
-# Financial Data Analysis and Machine Learning
+# Financial Data Analysis and Machine Learning 📈
 
 This project involves fetching financial data, processing it, and applying machine learning techniques to predict stock price movements. It demonstrates the end-to-end process of working with stock market data from data retrieval to machine learning model evaluation.
 
